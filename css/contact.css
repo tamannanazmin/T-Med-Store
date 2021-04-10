@@ -1,0 +1,11 @@
+.lines{
+  font-size: 22px;
+  padding: 2%;
+  background-color: none;
+  margin: 10%;
+  cursor: pointer;
+  color: rgb(190,190,190);
+  position: relative;
+  align-items: center;
+
+}
